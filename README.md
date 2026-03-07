@@ -1,3 +1,1 @@
-# aphasiasurvivor
-
-Happy today!
+Aphasia Survivors
