@@ -3,7 +3,7 @@
 </head>
 
 
-<body bgcolor=blue>
+<body bgcolor="blue">
 <h1>Hello Stanne!</h1>
 <p>Have a great Saturday night!</p>
 
