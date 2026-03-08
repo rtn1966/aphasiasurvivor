@@ -1,9 +1,14 @@
 <html>
 <head>
+    <style>
+p {
+  font-size: 30px;
+}
+</style>
 </head>
 
 
-<body bgcolor="blue">
+<body>
 <h1>Hello Stanne!</h1>
 <p>Have a great Saturday night!</p>
 
