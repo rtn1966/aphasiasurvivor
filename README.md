@@ -1,7 +1,27 @@
-<h1>Ron Website</h1>
-<p><a href="https://pompeymall.com">Pompey Mall
-<p><a href="https://cnycentral.com">CNY
-<p><a href="https://aphasiasurvivor.com/my-blog">Aphasia Blog
+<html>
+<head>
+<style>
+body {
+   background-color: lightblue;
+}
+
+h1 {
+   color: white;
+   text-align: center;
+}
+
+p {
+   font-family: Verdana;
+   font-size: 20px;
+}
+<\style>
+<\head>
+
+<h1>Hello Stanne!<\h1>
+<p>Have a great Saturday night!<\p>
+
+<\body>
+<\html>
 
 
 
