@@ -6,13 +6,13 @@ body {
 }
 
 h1 {
-   color: white;
-   text-align: center;
+   color:white;
+   text-align:center;
 }
 
 p {
-   font-family: Verdana;
-   font-size: 10px;
+   font-family:Verdana;
+   font-size:10px;
 }
 </style>
 </head>
