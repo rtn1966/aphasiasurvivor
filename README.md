@@ -2,7 +2,7 @@
 <head>
 <style>
 body {
-   background-color: lightblue;
+   background-color: green;
 }
 
 h1 {
@@ -12,7 +12,7 @@ h1 {
 
 p {
    font-family: Verdana;
-   font-size: 20px;
+   font-size: 10px;
 }
 </style>
 </head>
