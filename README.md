@@ -2,11 +2,11 @@
 <head>
 <style>
 body {
-   background-color: green;
+   background-color: #ffffff;
 }
 
 h1 {
-   color: black;
+   color: #000000;
    text-align:right;
 }
 
