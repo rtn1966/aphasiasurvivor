@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-   color: white;
+   color: yellow;
    text-align: center;
 }
 
