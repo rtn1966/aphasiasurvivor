@@ -14,14 +14,14 @@ p {
    font-family: Verdana;
    font-size: 20px;
 }
-<\style>
-<\head>
+</style>
+</head>
 
-<h1>Hello Stanne!<\h1>
-<p>Have a great Saturday night!<\p>
+<h1>Hello Stanne!</h1>
+<p>Have a great Saturday night!</p>
 
-<\body>
-<\html>
+</body>
+</html>
 
 
 
