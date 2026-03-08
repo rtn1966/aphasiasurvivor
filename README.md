@@ -11,7 +11,7 @@ h1 {
 }
 
 p {
-   font-family:Verdana;
+   font-family:block;
    font-size:10px;
 }
 </style>
