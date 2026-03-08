@@ -6,8 +6,8 @@ body {
 }
 
 h1 {
-   color: white;
-   text-align:center;
+   color: black;
+   text-align:right;
 }
 
 p {
@@ -17,7 +17,7 @@ p {
 </style>
 </head>
 <body>
-<h5>Hello Stanne!</h5>
+<h1>Hello Stanne!</h1>
 <p>Have a great Saturday night!</p>
 
 </body>
