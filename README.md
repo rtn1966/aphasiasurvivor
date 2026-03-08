@@ -2,7 +2,7 @@
 
 <body>
 <center><h1>Aphasia Survivor</h1>
-<p><a href="https://ahasiasurvivor.com"> Aphasia
+<p><a href="https://ahasiasurvivor.com"> Aphasia</a>
 
 </body>
 </html>
